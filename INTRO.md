@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+- linkedin: www.linkedin.com/in/
+shivani-kawade16
 
 <!---
 shivani0416/shivani0416 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
