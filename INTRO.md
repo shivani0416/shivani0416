@@ -1,14 +1,8 @@
-- 👋 Hi, I’m @shivani0416
-- 👀 I’m interested in reading books
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
-- linkedin: www.linkedin.com/in/
-shivani-kawade16
+👋 Hi, I’m Shivani (@shivani0416)
 
-<!---
-shivani0416/shivani0416 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🐍 Python & Machine Learning developer  
+📌 Working on academic and real-world ML projects  
+🎓 Helping students with project development, logic clarity, and viva prep  
+🔧 Focused on clean code and practical implementation  
+
+🔗 LinkedIn: www.linkedin.com/in/shivani-kawade16
